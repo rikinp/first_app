@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "241290796251",
+    "firebase_url": "https://notes-down-af51b.firebaseio.com",
+    "project_id": "notes-down-af51b",
+    "storage_bucket": "notes-down-af51b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241290796251:android:dbfb7a7376f938195300fe",
+        "android_client_info": {
+          "package_name": "com.kdobs09.firstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241290796251-a9ou8sl6v71bh1o49vh8c27b83u8uo9f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kdobs09.firstapp",
+            "certificate_hash": "cbf753717ee5c94d34cb7ba0cdaa40f9b8945cfb"
+          }
+        },
+        {
+          "client_id": "241290796251-tkp73fsi94vbjtirp353h8am30vkl1qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAtmJ1aqp-meo7SR3scYdZCNzHgXhtLAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241290796251-tkp73fsi94vbjtirp353h8am30vkl1qr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

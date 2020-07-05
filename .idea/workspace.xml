@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e08c6ecc-2a81-4f8a-a0b4-dff413c83ceb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="FlutterView" splitter-proportion="0.4265928" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eAZqFORdY9jmwlFdgP2BMQJO8D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\flutterproject\first_app\android\app" />
+      <recent name="F:\flutterproject\first_app\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\flutterproject\first_app\images" />
+      <recent name="F:\flutterproject\first_app\android\app" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e08c6ecc-2a81-4f8a-a0b4-dff413c83ceb" name="Default Changelist" comment="" />
+      <created>1593766546974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593766546974</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Notifications" timestamp="1593977594715">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1593977594715" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1593977315290">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1593977315290" />
+    <state x="553" y="257" key="Github.ShareDialog" timestamp="1593977585015">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="553" y="257" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1593977585015" />
+    <state width="1323" height="155" key="GridCell.Tab.0.bottom" timestamp="1593961520199">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="155" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593961520199" />
+    <state width="1323" height="155" key="GridCell.Tab.0.center" timestamp="1593961520199">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="155" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593961520199" />
+    <state width="1323" height="155" key="GridCell.Tab.0.left" timestamp="1593961520199">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="155" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593961520199" />
+    <state width="1323" height="155" key="GridCell.Tab.0.right" timestamp="1593961520199">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="155" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593961520199" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1593977524339">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1593977524339" />
+    <state x="92" y="92" width="1182" height="544" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1593959108902">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1366.728@0.0.1366.728" timestamp="1593959108902" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1593976831729">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1593976831729" />
+    <state width="383" height="190" key="javadoc.popup.new" timestamp="1593959538803">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="383" height="190" key="javadoc.popup.new/0.0.1366.728@0.0.1366.728" timestamp="1593959538803" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1593769323126">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1593769323126" />
+  </component>
+</project>
