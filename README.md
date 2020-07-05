@@ -1,4 +1,4 @@
-# firstapp
+# Notes_App
 
 A new Flutter application.
 
